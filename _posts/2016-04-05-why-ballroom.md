@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Ballroom dance will make you happier, smarter, and more beautiful. No joke'
-datePublished: '2016-04-05T08:02:27.812Z'
-dateModified: '2016-04-05T07:29:18.174Z'
+datePublished: '2016-04-05T08:57:39.054Z'
+dateModified: '2016-04-05T08:02:36.251Z'
 title: Why Ballroom
 author: []
+sourcePath: _posts/2016-04-05-why-ballroom.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-05-why-ballroom.md
-published: true
 url: why-ballroom/index.html
 _type: WebPage
 
