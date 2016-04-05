@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[jandhballroom]]></title>
         <description><![CDATA[jandhballroom]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jandhballroom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 06:49:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Apr 2016 06:51:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jandhballroom/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/197a5d03-eaed-4a95-a803-ba9fd22360c4.jpg">]]></description>
-            <link>undefineda24a80d6-cb2f-4a5a-96e7-ba920df5b207/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/caa13aa0-331f-42e8-9435-8887e5037f18.jpg">]]></description>
+            <link>https://thegrid.ai/jandhballroom/a24a80d6-cb2f-4a5a-96e7-ba920df5b207/index.html</link>
             <guid isPermaLink="false">a24a80d6-cb2f-4a5a-96e7-ba920df5b207</guid>
-            <pubDate>Tue, 05 Apr 2016 06:49:13 GMT</pubDate>
+            <pubDate>Tue, 05 Apr 2016 06:50:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
