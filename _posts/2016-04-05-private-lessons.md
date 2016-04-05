@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Private lessons
-datePublished: '2016-04-05T07:33:31.730Z'
-dateModified: '2016-04-05T07:33:08.223Z'
+datePublished: '2016-04-05T08:12:07.643Z'
+dateModified: '2016-04-05T08:11:53.060Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-05-private-lessons.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-05-private-lessons.md
-published: true
 url: private-lessons/index.html
-_type: Article
+_type: WebPage
 
 ---
 **Private lessons**
