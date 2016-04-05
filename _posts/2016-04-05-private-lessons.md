@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Private lessons
-datePublished: '2016-04-05T08:42:43.637Z'
-dateModified: '2016-04-05T08:42:38.811Z'
+datePublished: '2016-04-05T08:43:07.223Z'
+dateModified: '2016-04-05T08:42:59.442Z'
 title: Services
 author: []
 sourcePath: _posts/2016-04-05-private-lessons.md
